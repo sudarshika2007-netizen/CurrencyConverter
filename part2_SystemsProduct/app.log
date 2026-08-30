@@ -1,0 +1,6 @@
+2026-08-30 22:18:22,705 - INFO - Successful conversion: 100.00 USD to 9524.00 INR
+2026-08-30 22:18:52,500 - INFO - Successful conversion: 100.00 USD to 85.00 EUR
+2026-08-30 22:19:21,790 - ERROR - Conversion failed: Amount cannot be negative.
+2026-08-30 22:19:41,790 - ERROR - Conversion failed: Unsupported currency code: XYZ
+2026-08-30 22:20:06,832 - ERROR - Conversion failed: could not convert string to float: 'abc'
+2026-08-30 22:47:24,548 - ERROR - Conversion failed: Amount must be a number.
